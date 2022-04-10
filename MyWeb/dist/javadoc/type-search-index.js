@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.vstudios.fjmc","l":"LoginResq"},{"p":"com.vstudios.fjmc","l":"Logout"},{"p":"com.vstudios.fjmc","l":"ResgistroResq"}]
